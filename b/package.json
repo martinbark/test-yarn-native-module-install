@@ -1,0 +1,7 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "dependencies": {
+    "nan-hello-world": "^1.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "e",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "dependencies": {
+    "a": "../a",
+    "b": "../b",
+    "c": "../c",
+    "d": "../d"
+  }
+}
